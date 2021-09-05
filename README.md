@@ -31,3 +31,6 @@ make -j 8
 <p>
   <img src="./screenshots/screenshot.png" alt="screenshot" width="450" height="auto"/>
 </p>
+
+## Further Reading
+https://renderdoc.org/vulkan-in-30-minutes.html
