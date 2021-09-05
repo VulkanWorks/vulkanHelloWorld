@@ -35,6 +35,8 @@ make -j 8
 ## Further Reading
 https://renderdoc.org/vulkan-in-30-minutes.html
 
+https://docs.imgtec.com/Introduction_to_APIs/Vulkan_HelloAPI_Guide/dita/topics/vulkan_concepts.html
+
 https://vkguide.dev/docs/chapter-1/vulkan_init_flow/
 
 https://ogldev.org/www/tutorial50/tutorial50.html
