@@ -37,4 +37,6 @@ https://renderdoc.org/vulkan-in-30-minutes.html
 
 https://vkguide.dev/docs/chapter-1/vulkan_init_flow/
 
+https://ogldev.org/www/tutorial50/tutorial50.html
+
 http://vulkano.rs/guide/introduction
