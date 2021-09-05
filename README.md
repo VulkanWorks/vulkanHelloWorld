@@ -39,6 +39,8 @@ https://docs.imgtec.com/Introduction_to_APIs/Vulkan_HelloAPI_Guide/dita/topics/v
 
 https://alain.xyz/blog/raw-vulkan
 
+https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan/
+
 https://vkguide.dev/docs/chapter-1/vulkan_init_flow/
 
 https://ogldev.org/www/tutorial50/tutorial50.html
