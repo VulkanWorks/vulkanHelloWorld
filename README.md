@@ -35,4 +35,6 @@ make -j 8
 ## Further Reading
 https://renderdoc.org/vulkan-in-30-minutes.html
 
+https://vkguide.dev/docs/chapter-1/vulkan_init_flow/
+
 http://vulkano.rs/guide/introduction
