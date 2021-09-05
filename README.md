@@ -34,3 +34,4 @@ make -j 8
 
 ## Further Reading
 https://renderdoc.org/vulkan-in-30-minutes.html
+http://vulkano.rs/guide/introduction
